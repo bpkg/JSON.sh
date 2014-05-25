@@ -12,4 +12,4 @@
 , "dependencies": {}
 , "devDependencies": {}
 , "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://bit.ly/dominictarr)" 
-, "scripts": { "test": "./all-tests.sh" } }
+, "scripts": { "test": "./all-tests.sh", "JSON.sh": "./JSON.sh" } }
